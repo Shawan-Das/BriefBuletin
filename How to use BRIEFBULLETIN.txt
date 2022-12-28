@@ -1,0 +1,11 @@
+1. Install XAMPP
+2. start "Apache" & "MySQL"
+3. visit http://localhost/phpmyadmin/index.php?route=/server/databases to run phpAdmin
+4. create 'newsportal' named database and import the"newsportal.sql" 
+   database from 'summarized-news-portal'- folder
+5. visit http://localhost/summarized-news-portal/newsportal/index.php to see Brief Bulletin
+6. to visit admin page, visit http://localhost/summarized-news-portal/newsportal/admin/dashboard.php
+   user Name: root, pass: s.das
+7. run main.py file to get new News. 
+
+Enjoy our project

@@ -1,0 +1,35 @@
+includes folder: done
+1. index:  done
+2.about done
+3.category done
+4.contact done
+5.detail done
+6.search complete
+
+
+admin Shawan
+backend Tanmoy
+
+Reference:
+https://www.w3schools.com/bootstrap4
+https://getbootstrap.com/docs/4.0/getting-started/introduction/
+https://www.youtube.com/watch?v=bmNmQfTBHLo&t=2276s
+https://www.youtube.com/watch?v=2TCjVK4LSOw&t=68s
+https://www.youtube.com/watch?v=qPp6O4ycH5c&t=75s
+https://www.youtube.com/watch?v=WmFHreVid-k&t=61s
+https://www.youtube.com/watch?v=UgcvvS7yMpA&t=848s
+https://www.youtube.com/watch?v=TaXql0h_wCA&t=2s
+https://www.youtube.com/watch?v=IqrBr-KT5qk&t=379s
+https://www.youtube.com/watch?v=SD9VPPvqxGQ
+https://www.youtube.com/watch?v=LTOOEWQ01H4&t=6s
+https://www.youtube.com/watch?v=at19OmH2Bg4&t=489s
+https://www.youtube.com/watch?v=hVCOrtOh1Wk
+
+http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=newsportal&table=tbladmin
+http://localhost/summarized-news-portal/newsportal/admin/manage-categories.php
+http://localhost/summarized-news-portal/newsportal/category.php?catid=6
+
+This is Brief Bulletin created by Md. Hasibur Rahman, Tanmoy Mazumder, Shawan Das for our CSE-410 project.
+
+We used PHP, Javascript, HTML, CSS, Python, MySql to create this project. We used beautifulsoup4, Newspaper3k, Requests and shutin
+used to collect news. 
